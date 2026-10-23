@@ -1,4 +1,4 @@
-# Fyndr - Social Media App
+# fovo - Social Media App
 
 
 - **Frontend:** Flutter (Android & iOS)
